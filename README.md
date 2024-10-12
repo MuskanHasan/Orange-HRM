@@ -47,9 +47,18 @@ The application faced critical issues such as:
 ### **Bug Report**
 - 🐛 **Bug Identified:** Documented a bug for TC_10 where an email was sent even for an invalid username in the "Forgot Password" process.
 
+## 📈 Testing Stats
+
+<h3>📊 Testing Stats:</h3>
+<p>
+    <img src="https://img.shields.io/badge/Test%20Cases-10-brightgreen" alt="Test Cases" />
+    <img src="https://img.shields.io/badge/Bug%20Reports-1-red" alt="Bug Reports" />
+    <img src="https://img.shields.io/badge/Tests%20Passed-9-brightgreen" alt="Tests Passed" />
+    <img src="https://img.shields.io/badge/Tests%20Failed-1-red" alt="Tests Failed" />
+</p>
+
 ---
 
 ## 📈 Conclusion
 
 This project successfully validated the **Orange HRM** login functionality, ensuring a secure and user-friendly experience. The bug report generated will aid in resolving any identified issues, contributing to continuous improvement.
-
