@@ -8,7 +8,7 @@ This project focuses on validating the login functionality of the **Orange HRM**
 
 - ✅ **Developed Comprehensive Test Scenarios** covering various login conditions.
 - 📊 **Implemented a Decision Table** to outline conditions and expected results.
-- ✍️ **Executed Structured Test Cases** to validate functionality and security.
+- ✍️ **Executed Structured Test Cases** to validate functionality and security. 
 - 🔐 **Enhanced User Security** by ensuring no valid username exposure in error messages.
 - 📑 **Documented Findings** in clear bug reports for future improvements.
 
