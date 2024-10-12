@@ -4,18 +4,6 @@
 
 This project focuses on validating the login functionality of the **Orange HRM** website to ensure secure and reliable user authentication. The testing process involved creating ten comprehensive test cases and documenting a bug report for any failures encountered during testing.
 
----
-
-## 🚩 Problem Statement
-
-The application faced critical issues such as:
-
-- ⚠️ **User Access Errors:** Users experienced difficulties logging in due to incorrect credential handling.
-- 🔒 **Security Concerns:** Potential exposure of valid usernames through error messages.
-- ❓ **Inconsistent User Experience:** Different outcomes based on varying inputs led to confusion.
-
----
-
 ## 🎯 Project Goals
 
 - ✅ **Developed Comprehensive Test Scenarios** covering various login conditions.
@@ -25,6 +13,18 @@ The application faced critical issues such as:
 - 📑 **Documented Findings** in clear bug reports for future improvements.
 
 ---
+
+## 📈 Testing Stats
+
+<h3>📊 Testing Stats:</h3>
+<p>
+    <img src="https://img.shields.io/badge/Test%20Cases-10-brightgreen" alt="Test Cases" />
+    <img src="https://img.shields.io/badge/Bug%20Reports-1-red" alt="Bug Reports" />
+    <img src="https://img.shields.io/badge/Tests%20Passed-9-brightgreen" alt="Tests Passed" />
+    <img src="https://img.shields.io/badge/Tests%20Failed-1-red" alt="Tests Failed" />
+</p>
+
+----
 
 ## 🔧 Methodology
 
@@ -46,16 +46,6 @@ The application faced critical issues such as:
 
 ### **Bug Report**
 - 🐛 **Bug Identified:** Documented a bug for TC_10 where an email was sent even for an invalid username in the "Forgot Password" process.
-
-## 📈 Testing Stats
-
-<h3>📊 Testing Stats:</h3>
-<p>
-    <img src="https://img.shields.io/badge/Test%20Cases-10-brightgreen" alt="Test Cases" />
-    <img src="https://img.shields.io/badge/Bug%20Reports-1-red" alt="Bug Reports" />
-    <img src="https://img.shields.io/badge/Tests%20Passed-9-brightgreen" alt="Tests Passed" />
-    <img src="https://img.shields.io/badge/Tests%20Failed-1-red" alt="Tests Failed" />
-</p>
 
 ---
 
